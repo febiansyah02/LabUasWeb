@@ -24,6 +24,7 @@
 - tombol-tombol manajemen data hanya muncul jika login sebagai admin:
 
 - Tambah Buku: Tombol hijau di dashboard yang mengarah ke formulir input buku baru.
+<img width="1919" height="1079" alt="Cuplikan layar 2026-01-05 210354" src="https://github.com/user-attachments/assets/bfaf97b7-5ec8-4d58-b5f6-b7a68aead3fe" />
 
 - Edit & Hapus: Tombol kuning dan merah di setiap baris data untuk melakukan pembaruan atau penghapusan buku tertentu.
 
